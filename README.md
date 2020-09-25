@@ -7,3 +7,13 @@ Dataset fields include video_id, trending_date, title, channel_title, category_i
 You can download the YouTube India data set from here -- https://www.kaggle.com/datasnaek/youtube-new
 
 find more information at kagle (https://www.kaggle.com/datasnaek/youtube-new/notebooks)
+
+# These are some question which i analyise from this dataset.
+* 1.Top 10 most viewed videos.
+* 2.Top 10 most likes videos.
+* 3.Top 10 most dislikes videos.
+* 4.Top 10 channels.
+
+     and many more you can see in this analysis.
+ 
+
