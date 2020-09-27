@@ -13,8 +13,7 @@ find more information at kagle (https://www.kaggle.com/datasnaek/youtube-new/not
 * 2.Top 10 most likes videos.
 * 3.Top 10 most dislikes videos.
 * 4.Top 10 channels.
-* 5. correlation between lik, dislikes and comment count
-
-     and many more you can see in this analysis.
+* 5.Correlation between like, dislikes and comment count
+      and many more you can see in this analysis.
  
 
