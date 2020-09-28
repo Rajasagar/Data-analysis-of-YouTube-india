@@ -4,7 +4,7 @@ This dataset contains the youtube data for country india and Data is provided in
 
 Dataset fields include video_id, trending_date, title, channel_title, category_id,publish_time, tags, views, likes, dislikes, comment_count. There are total 37352 rows and 16 columns.
 
-In this we use Pandas, Numpy, Matplotlib and seaborn libraries.
+In this analysis we use Pandas, Numpy, Matplotlib and seaborn libraries.
 
 You can download the YouTube India data set from here -- https://www.kaggle.com/datasnaek/youtube-new
 
