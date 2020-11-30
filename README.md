@@ -2,7 +2,7 @@
 
 This dataset contains the youtube data for country india and Data is provided in between 2017 and 2018.
 
-Dataset fields include video_id, trending_date, title, channel_title, category_id,publish_time, tags, views, likes, dislikes, comment_count. There are total 37352 rows and 16 columns.
+Datasets fields include video_id, trending_date, title, channel_title, category_id,publish_time, tags, views, likes, dislikes, comment_count. There are total 37352 rows and 16 columns.
 
 In this analysis we use Pandas, Numpy, Matplotlib and seaborn libraries.
 
